@@ -1,6 +1,0 @@
-framework module Pods_YSSwiftIMDemoUITests {
-  umbrella header "Pods-YSSwiftIMDemoUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
